@@ -1,7 +1,7 @@
 ---
 title: "Coachella"
 description: "Projet motion design et site web pour le festival"
-pubDate: "Jul 08 2022"
+pubDate: "2025-01-15T15:00:00Z"
 heroImage: "/coachella-bg.png"
 ---
 
