@@ -3,11 +3,10 @@
   "type": "module",
   "version": "0.0.1",
   "scripts": {
-    "dev": "astro dev",
-    "build": "astro build",
-    "preview": "astro preview",
-    "astro": "astro"
-  },
+  "dev": "astro dev",
+  "build": "astro build",
+  "deploy": "astro build && npx gh-pages -d dist"
+},
   "dependencies": {
     "@astrojs/mdx": "^4.0.6",
     "@astrojs/react": "^4.1.5",
