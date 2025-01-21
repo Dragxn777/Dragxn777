@@ -1,7 +1,7 @@
 ---
 title: "Crimson"
 description: "Lorem ipsum dolor sit amet"
-pubDate: "Jul 08 2022"
+pubDate: "2025-01-15T15:00:00Z"
 heroImage: "/entreprise-bg.png"
 ---
 
