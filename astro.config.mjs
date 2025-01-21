@@ -9,7 +9,7 @@ import tailwind from '@astrojs/tailwind';
 
 // https://astro.build/config
 export default defineConfig({
-    site: 'https://dragxn777.github.io/',
+    site: 'https://Dragxn777.github.io/',
     base: "/",
     integrations: [mdx(), sitemap(), react(), tailwind()],
 
